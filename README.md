@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nhat Quang</h1>
 
-- 👨‍💻 I am studying Software engineering at FPT HCM University
+- 👨‍💻 I am studying Software engineering at **FPT HCM University**
 - 🔭 I’m currently live in **District 9, HCM City**
 
 - 📫 How to reach me **truongquang2121@gmail.com**
